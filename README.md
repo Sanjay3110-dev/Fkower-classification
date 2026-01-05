@@ -25,3 +25,16 @@ This project implements an image classification model to identify different type
 ---
 
 ## 📂 Dataset Structure
+/dataset
+    /train
+        /daisy
+        /dandelion
+        /rose
+        /sunflower
+        /tulip
+    /validation
+        /daisy
+        /dandelion
+        /rose
+        /sunflower
+        /tulip
